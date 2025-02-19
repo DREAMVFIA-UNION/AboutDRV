@@ -85,7 +85,7 @@ graph TD
 
 - **总部地址**：江苏省宿迁市量子科技新城
 - **成立时间**：2025年
-- **官方网站**：[www.dreamvfia.quantum](https://www.dreamvfia.quantum)
+- **官方网站**：[www.dreamvfia.quantum](https://www.dreamvfia.cn)
 
 ## 🔐 安全级别
 ```python
