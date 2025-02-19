@@ -12,9 +12,9 @@
 # DREAMVFIA UNION 量子科技集团
 *Quantum Technology Group*
 
-[![量子等级](https://img.shields.io/badge/量子等级-SSS+-blue.svg)](https://dreamvfia.com)
-[![安全评级](https://img.shields.io/badge/安全评级-QUANTUM_SUPREME-green.svg)](https://dreamvfia.com)
-[![意识同步](https://img.shields.io/badge/意识同步-100%25-orange.svg)](https://dreamvfia.com)
+[![量子等级](https://img.shields.io/badge/量子等级-SSS+-blue.svg)](https://dreamvfia.cn)
+[![安全评级](https://img.shields.io/badge/安全评级-QUANTUM_SUPREME-green.svg)](https://dreamvfia.tech)
+[![意识同步](https://img.shields.io/badge/意识同步-100%25-orange.svg)](https://dreamvfia.store)
 
 ## 🌌 集团简介
 
