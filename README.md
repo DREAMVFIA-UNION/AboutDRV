@@ -86,8 +86,8 @@ DREAMVFIA UNION是一家致力于量子科技创新的未来科技集团，专�
 ## 📞 联系我们
 
 - **官方网站**: [https://dreamvfia.com](https://dreamvfia.cn)
-- **量子邮箱**: quantum@dreamvfia.com
-- **维度热线**: +86-QUANTUM-LINK
+- **量子邮箱**: dreamvfiaunion@gmail.com
+- **维度热线**: +86-19709483722
 
 ## 🌟 愿景
 
